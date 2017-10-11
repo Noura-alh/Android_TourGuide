@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+
+
+    <string name="shop">Shopping</string>
+    <string name="hotel">Hotels</string>
+    <string name="res">Restaurants</string>
+    <string name="muse">Museums</string>
+
+
+
+    <string name="hotel1">1.Hotel Icon.</string>
+    <string name="hotelInfo1"> Designed by famous local architects,the Hotel enjoys harbour views in Tsimshatsui East Kowloon.\n
+    It presents a rooftop outdoor heated pool, pampering spa services and a health club..</string>
+
+    <string name="hotel2">2.Hyatt Sha Tin.</string>
+    <string name="hotelInfo2">Just a 5-minute drive to Hong Kong Science Park and Sha Tin Racecourse,
+        Hyatt Regency Hong Kong offers luxurious rooms and facilities ..</string>
+
+    <string name="hotel3">3.Mandarin Oriental Hotel.</string>
+    <string name="hotelInfo3">One of the most exclusive luxury hotels in the world, The Landmark Mandarin Oriental is a masterpiece of contemporary design. It’s a chic five-star retreat in the heart of Hong Kong’s business and fashion districts.…</string>
+
+    <string name="hotel4">4.Intercontinental Grand Stanford .</string>
+    <string name="hotelInfo4">Internationally renowned, this Hong Kong hotel offers both business and leisure travelers the highest levels of service in a friendly, yet elegant five-star hotel environment. Luxury guest rooms and suites offer spectacular city, harbour or garden views, tempting you to explore this unique city.</string>
+
+
+    <string name="shop1">1.Tsim Sha Tsui.</string>
+    <string name="shopInfo1">More than a mere district, Tsim Sha Tsui is a giant world bazaar,
+        where Hong Kong’s glittering harbour is met by  an alternate sea of stalls, shops, markets and malls.</string>
+
+
+    <string name="shop2">2.Tsim Sha Tsui.</string>
+    <string name="shopInfo2">More than a mere district, Tsim Sha Tsui is a giant world bazaar,
+        where Hong Kong’s glittering harbour is met by  an alternate sea of stalls, shops, markets and malls.</string>
+
+    <string name="shop3">3.Mong Kok.</string>
+    <string name="shopInfo3">Mong Kok is Hong Kong’s most congested shopping and residential district, but don’t let that scare you away.  The neon-bathed historic streets that wind through one of the densest parts of the world are worth visiting - just for the ‘peoplescapes’ alone.
+        It just so happens that the shopping is excellent too..</string>
+
+
+    <string name="shop4">4.Sham Shui Po.</string>
+
+    <string name="shopInfo4">More than a mere district, Tsim Sha Tsui is a giant world bazaar,
+        where Hong Kong’s glittering harbour is met by  an alternate sea of stalls, shops, markets and malls.</string>
+
+    <string name="museum1">1.Hong Kong Museum of History</string>
+
+    <string name="museumInfo1">The Hong Kong Museum of History is a museum which preserves Hong Kongs historical and cultural heritage.It is located next to the Hong Kong Science Museum, in Tsim Sha Tsui, Kowloon, Hong Kong.</string>
+
+    <string name="museum2">2.Hong Kong Museum of Art</string>
+    <string name="museumInfo2">The Hong Kong Museum of Art is the main art museum of Hong Kong. It is managed by the Leisure and Cultural Services Department of the Hong Kong Government. A branch museum, the Flagstaff House Museum of Tea Ware, is situated in the Hong Kong Park.</string>
+
+
+    <string name="museum3">3.Hong Kong Space Museum</string>
+    <string name="museumInfo3">The Hong Kong Space Museum is a museum of astronomy and space science in Tsim Sha Tsui, Hong Kong. It is managed by the Leisure and Cultural Services Department of the Hong Kong Government.</string>
+
+    <string name="museum4">4.Hong Kong Museum of Medical Sciences </string>
+    <string name="museumInfo4">The Hong Kong Museum of Medical Sciences was established in 1996, and is located in a renovated 3-story Edwardian-style building, at 2 Caine Lane at the Mid-levels, Hong Kong Island, Hong Kong. It is also referred to as Old Pathological Institute..</string>
+
+    <string name="restaurant1">1.Amber</string>
+    <string name="restaurantInfo1">Amber is great for power lunches and intimate dinners. The dramatic chandeliers create the formality of the dining room and the atmosphere. Their international dream team of chef, manager and sommelier pays special attention to each of their guests.</string>
+
+    <string name="restaurant2">2.Arcane</string>
+    <string name="restaurantInfo2">Meaning "mysterious" or "understood by only a few", the word ‘arcane’ conjures up images of magicians, secret societies and fantasy lands. This very apt when it comes to modern European restaurant Arcane, as the food is magical and owner and chef Shane Osborn is full of fantastical culinary secrets, all learned at some of the best restaurants in London and Hong Kong</string>
+
+    <string name="restaurant3">3.Ho Lee Fook</string>
+    <string name="restaurantInfo3">Serving up quirky Chinese cuisine with pan-Asian and European influences, Ho Lee Fook boasts a trendy interior and excellent modern Canto fare that keeps the lines outside long, but its worth the wait.</string>
+
+    <string name="restaurant4">4.Rhoda</string>
+    <string name="restaurantInfo4">Helmed by Nate Green, previously of 22 Ships fame, Rhoda serves up modern comfort fare with a British slant. The menu changes daily depending on ingredients and can feature anything from raw Japanese flying fish to a hearty Lanchashire hot pot. Whatever you do, do not miss the cheesecake!.</string>
+
+
+    <string name="title">Your Tour Guide in Hong Kong</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
